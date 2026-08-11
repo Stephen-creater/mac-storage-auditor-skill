@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mac Storage Auditor"
+  short_description: "Read-only macOS storage audit with cleanup risk tiers"
+  default_prompt: "Use $mac-storage-auditor to run a read-only monthly storage audit and rank cleanup candidates by risk."
