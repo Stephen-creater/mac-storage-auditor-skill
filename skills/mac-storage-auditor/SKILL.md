@@ -1,6 +1,6 @@
 ---
 name: mac-storage-auditor
-description: Perform evidence-based, read-only macOS storage audits and rank cleanup candidates as strongly recommended, optional, or protected. Use when Codex needs to inspect disk pressure, caches, rarely used apps, stale projects and dependencies, duplicate media, package stores, Docker data, oversized AI session logs, APFS clones, application leftovers, or other abnormal large files without deleting anything automatically.
+description: "只读审计 macOS 磁盘占用，按证据列出可清理项和应保留项。"
 ---
 
 # Mac Storage Auditor
